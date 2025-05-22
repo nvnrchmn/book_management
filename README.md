@@ -16,7 +16,8 @@ Aplikasi CRUD sederhana untuk mengelola data buku menggunakan Laravel 10, Tailwi
 - Tailwind CSS
 - Vite
 - PHP 8.x
-- MySQL / SQLite (opsional sesuai konfigurasi)
+- MySQL (nama database: book_management)
+- Buat database terlebih dahulu sebelum melakukan Migrasi yaa...
 
 ## 🔧 Instalasi dan Menjalankan Project
 
