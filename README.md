@@ -55,5 +55,14 @@ Aplikasi CRUD sederhana untuk mengelola data buku menggunakan Laravel 10, Tailwi
 - resource/css/apps.css -> Styling menggunakan Tailwind
 - routes/web.php -> Routing Aplikasi
 
+## 🛠️ Debugging dan Validasi
+
+Project ini juga mendemonstrasikan kompetensi debugging dan validasi form:
+
+- `dd($request->all())`: digunakan untuk debugging data input dari form.
+- Validasi dilakukan di controller menggunakan `validate()`.
+- Error validasi ditampilkan ke pengguna menggunakan `@error` dan class `invalid-feedback`.
+- Pesan kesalahan ditangani dengan elegan di browser.
+
 ## Lisensi
  Project ini dibuat untuk keperluan pembelajaran
