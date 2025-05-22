@@ -26,7 +26,7 @@ Aplikasi CRUD sederhana untuk mengelola data buku menggunakan Laravel 10, Tailwi
    ```bash
    git clone https://github.com/username/book-management.git
    cd book-management
-    
+   
 2. **Install Dependency PHP dan JS**
     ```bash
     composer install
@@ -51,9 +51,9 @@ Aplikasi CRUD sederhana untuk mengelola data buku menggunakan Laravel 10, Tailwi
     Buka browser dan akses: http://127.0.0.1:8000/buku
 
 ## 📂 Struktur Folder Penting
-    - resource/views/books -> Halaman CRUD
-    - resource/css/apps.css -> Styling menggunakan Tailwind
-    - routes/web.php -> Routing Aplikasi
+- resource/views/books -> Halaman CRUD
+- resource/css/apps.css -> Styling menggunakan Tailwind
+- routes/web.php -> Routing Aplikasi
 
 ## Lisensi
  Project ini dibuat untuk keperluan pembelajaran
